@@ -1,0 +1,5 @@
+pregunta 4.12 :
+Vemos que se declara una variable , y usamos la funcion chain, esta 
+concadena o junta por asi decirlo 2 peticiones, en este caso junta 
+la funcion donde se jala todos nombres que tengan la designacion "SSE" y en la otra
+donde jala el id con la condicion de la primera funcion

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<button id="button">Boton 7</button>
+</body>
+<script type="text/javascript">
+	var nodes = document.getElementsByTagName('button');
+	for(var i=0;i<nodes.length;i++){
+		nodes[i].addEventListener('click',function(){
+			console.log('you clicked element #' + i);
+		});
+	}
+</script>
+</html>

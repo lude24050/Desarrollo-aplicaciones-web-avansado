@@ -1,0 +1,23 @@
+pregunta 7.1 :
+la variable "nodes" contiene cierta cantidad de elementos de la etiqueta
+"button" , esto es gracias a la funcion "getElementsByTagName" , luego se 
+hace un for donde cada vez que se haga click en el boton en la consola nos mande 
+un mensaje del numero de veces en la que hacemos click.
+
+-------------------------------------------------------------------
+
+pregunta 7.3 :
+En la consola se imprimira:
+
+1
+4
+3
+2
+
+ya que se toma como prioridad o de ejecucion mas rapida los que no tienen
+la funcion "setTimeout" que son en primer caso el 1 y el 4 , despues
+se procede con los que tienen esta funcion , pero el 3 se imprime antes
+ya que no tiene un intervalo de tiempo para ejecutarse , mientras que el 2 
+si tiene el intervalo de 1000
+
+----------------------------------------------------------------------
