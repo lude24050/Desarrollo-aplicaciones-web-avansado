@@ -1,0 +1,15 @@
+Conclusiones: 
+- logramos ver que jade trabaja igual que las vistas blade de laravel
+con estas podemos importar secciones de html, de esta manera se hace mas
+rapido la carga de nuestra web
+- Trabajar de manera casi pura con javascript, podemos acceder a los componentes
+del Doom facilmente, como en el caso de crear una variable de todos los campos
+llenados
+- La forma de trabajar con sockets es muy facil , solo debemos tener en claro su funcionamiento, 
+que es emitir un evento y luego en nuestro servidor escuchar y hacer una accion apartir de eso
+- Como es de construmbre usamos un modelo para poder mapear nuestra base de datos, y
+poder hacer nuestro CRUD
+- Como hemos probado, con node.js y javascript trabajar en tiempo real es mas facil
+y vemos que no se sobrecarga el servidor.
+- Podemos hacer mas dinamico nuestro proyecto como tipo chat, y la conexion seria de diferentes
+maquinas mediante nuestra ip
