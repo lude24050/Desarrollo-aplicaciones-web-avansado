@@ -1,0 +1,19 @@
+- Para poder hacer la conexion de nuestro proyecto con MongoDB, debemos
+descargar la libreria de mongoose
+- podemos crear de manera muy facil una coleccion de mongo, solo tenemos que definir 
+el modelo de nuestra base de datos
+- Mongo ya te asigna un atributo por default que es el id, para poder trabajar
+con ese dato
+- pudimos ver como asignar las funciones que queremos dentro de una ruta,
+solo debemos importar el archivo donde se contienen las funciones y crear
+una variable a partir de estas
+- Trabajamos con la plantilla jade, es una manera de generar vistas mas 
+rapido, es como trabajar con html pero mas abreviado
+-  Podemos notar que en algunos casos para usar librerias, debemos descargar
+con el "npm install"
+- Es recomendable que cuando importemos un proyecto hacer un npm install, 
+ya que que con esto se descargar todas las dependencias y librerias 
+que necesite el proyecto para poder ejecutar con normalidad, la lista 
+de todo estas dependencias estan en el archivo package.json
+- Logramos hacer formularios, y gestionar las varibles de entrada para poder trabajar
+con estas
