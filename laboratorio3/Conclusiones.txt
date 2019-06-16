@@ -1,0 +1,15 @@
+Conclusiones: 
+- Podemos usar el framework de Express, descargando o usando su propia 
+estructura o sino podemos descargar la dependencia de express y tanbiem
+usarla en nuestro proyecto
+- Con la ayuda de express es muy facil poder crear y hacer correr nuestro servidor, 
+y poder generar las rutas que necesitemos
+- Utilizamos postman para poder probar los resultados de nuestras rutas
+, existen diferentes softwares de escritorio o online que nos ayudan a
+probar
+- Podemos tanbiem controlar los errores que tengamos en el caso 
+de las rutas por ejemplo cuando probamos para acceder a los archivos estaticos
+- Si usamos el framework de express, podemos ver que ya nos genera una estructura
+mas ordenada y con diferentes componetes para ya poder correr nuestro servidor
+- hay una diferencia de sintaxis entre de como crear nuestro servidor 
+con el framework de express y de importar la libreria de express
