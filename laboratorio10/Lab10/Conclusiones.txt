@@ -1,0 +1,13 @@
+Conclusiones:
+-Redux se encarga en cierta manera de desacoplar el estado global de una aplicación web
+ de la parte visual, es decir los componentes.
+- Los estados de una web pueden ser varias cosas, en este caso se trata
+de lo datos recibidos a traves de nuestra API, tanbn puede referirse al 
+estado de la UI de un determinado momento
+- Redux nos ayuda a escribir aplicaciones que se comportan de manera consistente,
+ -Gracias a redux creamos middlewares , esta recibira un parametro parecido,
+a una version reducida del Store, utilizamos los metodos dispatch y getState
+y mediante eso podemos realizar diferentes eventos o acciones
+- gracias a la herramienta , la extension de redux en google chrome, podemos ver
+en tiempo real la respuesta de los metodos mencionados antes, esto nos 
+ayuda para poder ver alguna falla en lso eventos que ocurre en nuestra App

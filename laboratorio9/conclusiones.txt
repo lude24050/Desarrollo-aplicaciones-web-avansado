@@ -1,0 +1,7 @@
+- Implementamos morgan , esto para saber detalles sobre nuestras consultas
+- Implemnetamos componentes de carga, es¿n este caso para la carga de 
+editar perfil, para eso utilizamos la herramienta de loading.io
+- Como tambien agreganos elementos extra as nuestro proyecto como en este caso subpaginas que contienetanto vistas o formularios simples de
+ lo cual es lo ideal para poder probar la implementacion de spinner
+- Los componetes de bootstrap o los componentes de carga solo funcionan
+con una conexion a internet

@@ -1,0 +1,14 @@
+Conclusiones:
+- En este caso utilizaremos 2 librerias interesante, bcrypt-nodejs que nos ayuda
+a poder encriptar las contraseñas y jsonwevtoken, para poder utilizar tokens y con
+esto poder manejar sesiones.
+- Utilizaremos en framework puro de express, para tener un orden en nuestro proyecto y
+crear nuestra API
+- Utilizamos expresion regular para poder hacer validar que se ingrese
+un correo o email, es una forma peculiar para dar condiciones, tiene ventajas
+por su abreviatura, pero desventajas en algunas logicas
+- Utilizamos la encriptacion de tipo has, no es la mas segura, pero es comun.
+- Creamos un middleware para la verificacion de tokens, de esta forma sabremos 
+si el ingresante esta registrado o no, y tener seguridad en nuestra API
+-utilizamos la libreria axios para poder comunicarnos con el backend,
+en este caso para poder hacer la conexion con nuestra API 

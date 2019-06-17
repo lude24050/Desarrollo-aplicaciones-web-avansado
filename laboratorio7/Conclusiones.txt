@@ -1,0 +1,10 @@
+- Con react Bootstrap, ya nos descarga los componentes para poder utilizarlos
+en nuestras vistas
+- para acceder a los componentes de react bootstrap es importante declarar bien la
+importacion
+- Una manera y facil de organizar nuestras vistas es generar por partes, 
+y solo llamar a sus componentes, para evitar redundancia de codigo 
+- los componentes actuan casi como una etiqueta html, es muy intuitiva
+y poseen todas la propiedades normales
+- Utilizamos localstorage, con este podemos usar las variables en sesion 
+por asi decirlo

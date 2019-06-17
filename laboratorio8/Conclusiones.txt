@@ -1,0 +1,13 @@
+Conclusiones:
+- podemos implementar de manera directa en al archivo package.json
+las dependencias que necesitemos, despues solo debemos hacer un npm install
+para que descarge todo lo necesario para el proyecto
+- Creamos el backend y front-end para hacer un chat, con el antes visto 
+socket.io
+- Y apodemos ver una complejidad en nuestro proyecto, como vemos consume
+de manera rapida y sin errores nuestra API, ya tenemos en inicio de sesion
+con interfaz
+- Por ahora no controlamos por el chat los usuarios que no queremos que se muestre
+nuestro mensajes, por ahora todos los que inician sesion pueden entrar al chat
+- para probar de una manera mas dinamica utilizamos el producto NOW propio
+de Zeith, con esto pudimos subir nuestro proyecto, y poder hacer pruebas
